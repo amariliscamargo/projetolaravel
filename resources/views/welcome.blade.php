@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <div>E nada mais :(</div>
             </div>
         </div>
     </body>
