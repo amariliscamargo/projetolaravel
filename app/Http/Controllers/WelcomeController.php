@@ -1,6 +1,6 @@
 <?php
 
-namespace codeCommerce\Http\Controllers;
+namespace CodeCommerce\Http\Controllers;
 
 class WelcomeController extends Controller{
 
